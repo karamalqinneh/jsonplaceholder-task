@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  width: 100vw;
+  flex-wrap: wrap;
+}
+
+.post {
+  width: 40vw;
+  height: 20vh;
+  background-color: bisque;
+}

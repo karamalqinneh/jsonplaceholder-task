@@ -1,0 +1,12 @@
+.post {
+  width: 50vw;
+  height: 7.5vh;
+  background-color: rgba(170, 159, 170, 0.933);
+  margin: 0 auto;
+  margin-top: 1vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  cursor: pointer;
+}

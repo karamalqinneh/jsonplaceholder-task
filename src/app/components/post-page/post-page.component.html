@@ -1,0 +1,9 @@
+<h1>{{ postData.title }}</h1>
+<p>{{ postData.body }}</p>
+
+<div class="container">
+  <div *ngFor="let comment of postComments" class="post">
+    <h4>{{ comment.email }}</h4>
+    <p>{{ comment.body }}</p>
+  </div>
+</div>
