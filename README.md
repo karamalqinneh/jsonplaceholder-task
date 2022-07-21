@@ -1,2 +1,1 @@
-# jsonplaceholder-task
-SociumTech 02
+# JsonplaceholderTask
